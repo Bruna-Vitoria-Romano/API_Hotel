@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API_TesteRegistro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f34d6da32b95d593ee5cbb65d626be51af0d378")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17b29949bfbce6ef5b15b22206cf3b5261e22f99")]
 [assembly: System.Reflection.AssemblyProductAttribute("API_TesteRegistro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API_TesteRegistro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
